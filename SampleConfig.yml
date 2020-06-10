@@ -1,3 +1,5 @@
-property:
-  name: "AgeOfCedrick"
-  value: "32"
+AgeOfCedrick:
+  name: AgeOfCedrick
+  value: 32
+  type: org.ff4j.property.PropertyString
+  description: desc
