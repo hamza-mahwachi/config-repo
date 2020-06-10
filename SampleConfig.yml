@@ -1,1 +1,3 @@
-AgeOfCedrick: "32"
+property:
+  name: "AgeOfCedrick"
+  value: "32"
