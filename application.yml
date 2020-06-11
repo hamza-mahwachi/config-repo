@@ -11,6 +11,7 @@ ff4j:
                     tuesday: 08:00-12:00,13:30-18:00
         flag2:
             description: test
+            enable: true
             group: yolo
             permissions:
                 - admin
