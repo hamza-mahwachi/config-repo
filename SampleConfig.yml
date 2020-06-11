@@ -1,5 +1,8 @@
-AgeOfCedrick:
-  name: AgeOfCedrick
-  value: 32
-  type: org.ff4j.property.PropertyString
-  description: desc
+
+ff4j:
+ properties:
+   AgeOfCedrick:
+     name: AgeOfCedrick
+     value: '32'
+     type: org.ff4j.property.PropertyString
+     description: desc
