@@ -1,5 +1,4 @@
-{
-"name" : "AgeOfCedrick",
-"description" : "A computer Science portal for Geeks",
-"type" : "org.ff4j.property.PropertyString"
-}
+name: AgeOfCedrick
+description: 
+type: org.ff4j.property.PropertyString
+value: test
