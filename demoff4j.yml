@@ -4,24 +4,15 @@ ff4j:
     features:
         flag11:
             enable: true
-            flipStrategy:
-                clazz: org.ff4j.strategy.time.OfficeHourStrategy
-                params:
-                    monday: 08:00-12:00,13:30-18:00
-                    tuesday: 08:00-12:00,13:30-18:00
+            description: flag11
+            
         flag12:
-            description: test
+            description: flag12
             enable: true
             group: yolo
             permissions:
-                - admin
-                - user1
-                - user2
-            flipStrategy:
-                clazz: org.ff4j.strategy.DarkLaunchStrategy
-                params:
-                    ratio: 0.5
-                    weight: 0.4
+                - ROLE_ADMIN
+                - ROLE_USER
     properties:
         prop1:
             type: string
