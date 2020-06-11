@@ -1,8 +1,8 @@
 {
   "AgeOfCedrick": "{
-    "name": "AgeOfCedrick",
-    "description": null,
-    "type": "org.ff4j.property.PropertyString",
-    "value": "AMER"
+    name : AgeOfCedrick,
+    description : null,
+    type : org.ff4j.property.PropertyString,
+    value : AMER
   }"
 }
