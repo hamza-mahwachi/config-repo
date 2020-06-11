@@ -2,14 +2,14 @@
 
 ff4j:
     features:
-        flag1:
+        flag11:
             enable: true
             flipStrategy:
                 clazz: org.ff4j.strategy.time.OfficeHourStrategy
                 params:
                     monday: 08:00-12:00,13:30-18:00
                     tuesday: 08:00-12:00,13:30-18:00
-        flag2:
+        flag12:
             description: test
             enable: true
             group: yolo
