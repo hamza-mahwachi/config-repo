@@ -1,4 +1,4 @@
 name: AgeOfCedrick
-description: 
+description: desc
 type: org.ff4j.property.PropertyString
 value: test
