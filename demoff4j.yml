@@ -3,7 +3,7 @@
 ff4j:
     features:
         flag11:
-            enable: true
+            enable: false
             description: flag11
         flag12:
             description: flag12
