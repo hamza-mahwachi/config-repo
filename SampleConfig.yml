@@ -1,2 +1,2 @@
 "AgeOfCedrick" : "{\"name\":\"AgeOfCedrick\",\"type\":\"org.ff4j.property.PropertyString\",\"description\":\"null\",\"value\":\"hamza\"}"
-"featureValidate" : "{\"uid\":\"featureValidate\",\"enable\":\"true\"}"
+"featureValidate" : "{\"uid\":\"featureValidate\",\"enable\":true}"
