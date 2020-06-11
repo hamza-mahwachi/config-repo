@@ -1,4 +1,5 @@
-name: AgeOfCedrick
-description: desc
-type: org.ff4j.property.PropertyString
-value: test
+AgeOfCedrick:
+  name: AgeOfCedrick
+  description: desc
+  type: org.ff4j.property.PropertyString
+  value: test
