@@ -3,7 +3,7 @@
 ff4j:
     features:
         flag1:
-            enable: false
+            enable: true
             flipStrategy:
                 clazz: org.ff4j.strategy.time.OfficeHourStrategy
                 params:
