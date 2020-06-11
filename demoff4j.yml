@@ -5,14 +5,10 @@ ff4j:
         flag11:
             enable: true
             description: flag11
-            
         flag12:
             description: flag12
             enable: true
             group: yolo
-            permissions:
-                - ROLE_ADMIN
-                - ROLE_USER
     properties:
         prop1:
             type: string
